@@ -1,0 +1,11 @@
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/bin/Debug/netcoreapp2.1/PrimeFactorization.deps.json
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/bin/Debug/netcoreapp2.1/PrimeFactorization.runtimeconfig.json
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/bin/Debug/netcoreapp2.1/PrimeFactorization.runtimeconfig.dev.json
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/bin/Debug/netcoreapp2.1/PrimeFactorization.dll
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/bin/Debug/netcoreapp2.1/PrimeFactorization.pdb
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/obj/Debug/netcoreapp2.1/PrimeFactorization.csprojAssemblyReference.cache
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/obj/Debug/netcoreapp2.1/PrimeFactorization.csproj.CoreCompileInputs.cache
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/obj/Debug/netcoreapp2.1/PrimeFactorization.AssemblyInfoInputs.cache
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/obj/Debug/netcoreapp2.1/PrimeFactorization.AssemblyInfo.cs
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/obj/Debug/netcoreapp2.1/PrimeFactorization.dll
+/Users/KevinMurphy/Documents/CodePracticeProjects/PrimeFactorization/src/PrimeFactorization/obj/Debug/netcoreapp2.1/PrimeFactorization.pdb

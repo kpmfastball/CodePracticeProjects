@@ -1,0 +1,11 @@
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/obj/Debug/netcoreapp2.1/PiToTheNth.csprojAssemblyReference.cache
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/obj/Debug/netcoreapp2.1/PiToTheNth.csproj.CoreCompileInputs.cache
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/obj/Debug/netcoreapp2.1/PiToTheNth.AssemblyInfoInputs.cache
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/obj/Debug/netcoreapp2.1/PiToTheNth.AssemblyInfo.cs
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/bin/Debug/netcoreapp2.1/PiToTheNth.deps.json
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/bin/Debug/netcoreapp2.1/PiToTheNth.runtimeconfig.json
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/bin/Debug/netcoreapp2.1/PiToTheNth.runtimeconfig.dev.json
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/bin/Debug/netcoreapp2.1/PiToTheNth.dll
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/bin/Debug/netcoreapp2.1/PiToTheNth.pdb
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/obj/Debug/netcoreapp2.1/PiToTheNth.dll
+/Users/KevinMurphy/Documents/CodePracticeProjects/PiToTheNth/src/PiToTheNth/obj/Debug/netcoreapp2.1/PiToTheNth.pdb
